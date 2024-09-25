@@ -43,7 +43,7 @@ AutoCat offers a user-friendly and colorful command-line interface, making it bo
 ## Installation
 1. **Download the AutoCat script**:
     ```bash
-    wget https://path-to-your-script/auto-cat.sh
+    wget https://path-to-your-script/auto-cat.sh](https://github.com/HackersParadisee/AutoCat.git
     ```
 
 2. **Make the script executable**:
